@@ -21,15 +21,19 @@
   <ItemGroup>
     <Reference Include="Microsoft.ReportViewer.Common">
       <HintPath>..\..\..\..\..\Apps\reportviewercore\Reliase\Microsoft.ReportViewer.Common.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.ReportViewer.DataVisualization">
       <HintPath>..\..\..\..\..\Apps\reportviewercore\Reliase\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.ReportViewer.NETCore">
       <HintPath>..\..\..\..\..\Apps\reportviewercore\Reliase\Microsoft.ReportViewer.NETCore.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel">
       <HintPath>..\..\..\..\..\Apps\reportviewercore\Reliase\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+      <Private>True</Private>
     </Reference>
   </ItemGroup>
 
