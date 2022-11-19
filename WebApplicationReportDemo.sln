@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationReportDemo", "WebApplicationReportDemo\WebApplicationReportDemo.csproj", "{CFC99842-4EF8-4E10-9729-92A84CD2555E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationReportNet7", "WebApplicationReportNet7\WebApplicationReportNet7.csproj", "{FF8BA014-0E4E-4D27-BB09-5AA0649596F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC99842-4EF8-4E10-9729-92A84CD2555E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC99842-4EF8-4E10-9729-92A84CD2555E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC99842-4EF8-4E10-9729-92A84CD2555E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC99842-4EF8-4E10-9729-92A84CD2555E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF8BA014-0E4E-4D27-BB09-5AA0649596F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8BA014-0E4E-4D27-BB09-5AA0649596F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8BA014-0E4E-4D27-BB09-5AA0649596F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8BA014-0E4E-4D27-BB09-5AA0649596F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6981B1B4-BE78-4A30-8813-2004EAC93AD9}
+	EndGlobalSection
+EndGlobal
